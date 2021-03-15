@@ -1,4 +1,5 @@
 # splash_screen
+![splash](https://user-images.githubusercontent.com/36349126/111227988-24bbde00-85ec-11eb-8171-e108047fbeca.png)
 
 A new Flutter application.
 
