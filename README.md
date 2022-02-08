@@ -1,7 +1,10 @@
 # splash_screen
 ![splash](https://user-images.githubusercontent.com/36349126/111227988-24bbde00-85ec-11eb-8171-e108047fbeca.png)
 
-A new Flutter application.
+A new Flutter application creates a #SplashScreen with #Timer in #Flutter 
+You can watch the episode Explained in Arabic on #YouTube: https://youtu.be/gi-0C_k3mR4
+#dart #Google #programming #git #mobileapp
+#coding #android #iOS #softwaredevelopment
 
 ## Getting Started
 
